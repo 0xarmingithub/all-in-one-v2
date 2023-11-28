@@ -186,7 +186,7 @@ class Value_Exchange:
     Exchanges: binance | bybit | kucoin | mexc | huobi | bitget
 
     Chains:
-    - binance: ETH | BEP20 | AVAXC | MATIC | ARBITRUM | OPTIMISM | APT
+    - binance: ETH | BEP20 | AVAXC | MATIC | ARBITRUM | OPTIMISM | APT | ZKSYNCERA
     - bybit
     - kucoin
     - mexc
